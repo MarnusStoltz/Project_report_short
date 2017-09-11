@@ -1,0 +1,74 @@
+%% Creator: Inkscape inkscape 0.92.1, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'TTR_diagram.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{535.38434636bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.42282795)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{TTR_diagram.pdf}}%
+    \put(0.02523759,0.05577025){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{}}}%
+    \put(0.05741061,0.04719076){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{}}}%
+    \put(-0.00155043,0.18864865){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k_nk_g$}}}%
+    \put(0.0015971,0.29410549){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k_ck_g$}}}%
+    \put(0.00138792,0.39941707){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k_g$}}}%
+    \put(0.62586563,0.18864865){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k_nk_g$}}}%
+    \put(0.62689804,0.29410543){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k_ck_g$}}}%
+    \put(0.62668629,0.39941699){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k_g$}}}%
+    \put(0.38604676,0.39941606){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k_l$}}}%
+    \put(0.26519552,0.39941606){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k_l$}}}%
+    \put(0.31942251,0.29410648){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k[\frac{C_s}{M_s} - \frac{C_r}{M_r}]$}}}%
+    \put(0.31942251,0.18864865){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k[\frac{N_r}{M_r} - \frac{N_s}{N_s}]$}}}%
+    \put(0.08469333,0.37782984){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\fontsize{22pt}{1em}$M_s$}}}%
+    \put(0.08088475,0.27193785){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\fontsize{22pt}{1em}$C_s$}}}%
+    \put(0.08088475,0.16604586){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\fontsize{22pt}{1em}$N_s$}}}%
+    \put(0.46553802,0.37782984){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\fontsize{22pt}{1em}$M_r$}}}%
+    \put(0.46553802,0.27193785){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\fontsize{22pt}{1em}$C_r$}}}%
+    \put(0.46553802,0.16604586){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\fontsize{22pt}{1em}$N_r$}}}%
+    \put(0.26758769,0.00440506){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k_{A_0}(M_s)$}}}%
+    \put(0.36458132,0.00465385){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$k_{B_0}(M_r)$}}}%
+  \end{picture}%
+\endgroup%
